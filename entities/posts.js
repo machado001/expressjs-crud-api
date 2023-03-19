@@ -1,7 +1,7 @@
 class Posts {
   static posts = [
     {
-      id: "1234-abcd-AB34",
+      id: "b201076f-4dca-4478-b757-223166b1bd56",
       title: "title mock",
       description: "description mock",
     },
