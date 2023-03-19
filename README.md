@@ -60,7 +60,7 @@ description: 'a cool description'},
 
 > express route: /update/:id/:title-:description
 
-> URL request: `http://localhost:3031/api/update//${dinamicId}/${dinamicTitle}-${dinamicDescription}`
+> URL request: `http://localhost:3031/api/update/${dinamicId}/${dinamicTitle}-${dinamicDescription}`
 
 > response: status 200 and update the **title** and **description** of the post that has the id **dinamicId**
 
