@@ -30,7 +30,7 @@ description: 'a cool description'},
 
 > I've been used `insomnia`, but you can use `postman` or `curl` in the CLI, it's your decision.
 
-> the basic domain to all HTTP methods will be `http://localhost:3031/api`
+> the base URL to all HTTP methods will be `http://localhost:3031/api`
 
 ### GET all posts
 
