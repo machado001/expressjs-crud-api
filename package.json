@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --watch testing/unitTests/**/*.js"
+    "test": "npx mocha --w testing/unitTests/**/*.js"
   },
   "keywords": [],
   "author": "",

@@ -3,7 +3,7 @@ const { expect, assert } = require("chai");
 const Post = require("../../../entities/post");
 const { describe, it } = require("mocha");
 
-describe("class Post", () => {
+describe("-------------------class Post--------------------", () => {
 
   describe("#constructor", () => {
 

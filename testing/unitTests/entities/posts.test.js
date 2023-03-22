@@ -5,7 +5,7 @@ const Posts = require("../../../entities/posts");
 const { describe, it } = require("mocha");
 const {} = require("sinon");
 
-describe("class Posts:", () => {
+describe("-------------------class Posts---------------------", () => {
   describe("#getAll()", () => {
     it("should return all posts", () => {
       const initialPosts = Posts.getAll();
